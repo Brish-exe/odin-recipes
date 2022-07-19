@@ -1,0 +1,32 @@
+#header {
+    background-color: chartreuse;
+    color: hsl(183, 98, 17);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.chili {
+    background-color: beige;
+    color: #FF3333;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: left;
+}
+
+.tuna {
+    background-color: bisque;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.cheesy {
+    background-color: orange;
+    color: rgb(162, 111, 11);
+    font-family: cursive;
+    font-size: x-large;
+    text-align: right;
+}
+
